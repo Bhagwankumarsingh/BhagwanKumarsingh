@@ -1,4 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)]
+[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io))](https://bhagwankumarsingh.io)
 
 <h1 align="center">Hi 👋, I'm Bhagwan Kumar Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
