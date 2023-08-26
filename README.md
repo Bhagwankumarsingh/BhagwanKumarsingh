@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)]
+[![MasterHead]([![MasterHead](https://media3.giphy.com/headers/monstercat/LQnX59nHBsOV.gif)](https://Bhagwankumarsingh.io)]
 
 <h1 align="center">Hi 👋, I'm Bhagwan Kumar Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
